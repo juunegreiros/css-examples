@@ -9,7 +9,7 @@ inúmeras coisas em inglês por aí :P)
 
 ## Índice
 
-1. [Iniciando]('./iniciando/README.md')
-1. [Exemplos]('./exemplos/README.md')
-1. [Organizando o seu CSS e outras coisas :P]('./organizacao/README.md')
-1. [Quero contribuir!]('./contribuicao/README.md')
+1. [Iniciando](iniciando/README.md)
+1. [Exemplos](exemplos/README.md)
+1. [Organizando o seu CSS e outras coisas :P](./organizacao/README.md)
+1. [Quero contribuir!](./contribuicao/README.md)
