@@ -63,7 +63,7 @@ Uma página de tributo nada mais é que uma página de homenagem a algo ou algu�
     </div>
   ```
 
-  - Na segunda parte, temos vários parágrafos, que serão representados pela tag `<p>`, e, dentro de um deles, um link, que será representado pela tag `<a>` de anchor. Não podemos esquecer de colocar o atributo `href` para dizer qual a ~referência~ para onde o nosso ~hyperlink~ ira apontar:
+  - Na segunda parte, temos vários parágrafos, que serão representados pela tag `<p>`, e, dentro de um deles, um link, que será representado pela tag `<a>` de anchor. Não podemos esquecer de colocar o atributo `href` para dizer qual a **referência** para onde o nosso **hyperlink** ira apontar:
   ```html
     <div>
       <main>
