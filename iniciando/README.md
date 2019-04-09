@@ -2,7 +2,7 @@
 
 ## Menu de conteúdo
 
-1. [Começando com HTML (elementos, tags e atributos)](''./1-iniciando-com-html.md)
+1. [Começando com HTML (elementos, tags e atributos)](./1-iniciando-com-html.md)
 2. Formas de importar e usar o CSS
 3. Começando com CSS (seletores, propriedades e valores)
 4. Mais sobre seletores
